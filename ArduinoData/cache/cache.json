@@ -1,0 +1,55 @@
+{
+  "files" : [ {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
+    "localPath" : "C:\\Users\\rober\\Documents\\ArduinoData\\cache\\downloads.arduino.cc\\libraries\\library_index.json.gz",
+    "eTag" : "0e2e92e9f1df43aa6b3413db40bb2c37",
+    "md5" : "MD5:0e2e92e9f1df43aa6b3413db40bb2c37",
+    "createdAt" : "2020-10-03T17:16:30.96",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-10-03T21:16:30.960"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json.sig",
+    "localPath" : "C:\\Users\\rober\\Documents\\ArduinoData\\cache\\downloads.arduino.cc\\packages\\package_index.json.sig",
+    "eTag" : "547ed28e3602902498defa82fdb1e18b",
+    "md5" : "MD5:547ed28e3602902498defa82fdb1e18b",
+    "createdAt" : "2020-10-03T17:16:29.916",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-10-03T18:16:29.916"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
+    "localPath" : "C:\\Users\\rober\\Documents\\ArduinoData\\cache\\downloads.arduino.cc\\libraries\\library_index.json.sig",
+    "eTag" : "d4f419bad1957c435404bff199c0599e",
+    "md5" : "MD5:d4f419bad1957c435404bff199c0599e",
+    "createdAt" : "2020-10-03T17:16:31.904",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-10-03T21:16:31.904"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json",
+    "localPath" : "C:\\Users\\rober\\Documents\\ArduinoData\\cache\\downloads.arduino.cc\\packages\\package_index.json",
+    "eTag" : "35298a363363609b1c4de6c90b56b102",
+    "md5" : "MD5:35298a363363609b1c4de6c90b56b102",
+    "createdAt" : "2020-10-03T17:16:29.48",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-10-03T18:16:29.480"
+  } ]
+}
